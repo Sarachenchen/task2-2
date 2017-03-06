@@ -1,0 +1,96 @@
+/*页面字体大小*/
+
+body {
+    font-size: 14px;
+    background-color: #4157bd;
+    margin: 0;
+}
+
+.container {
+    margin-top: 4px;
+    background-color: #FFFFFF;
+    width: 800px;
+    margin: 26px auto;
+    border-radius: 20px;
+}
+
+
+/*设置链接部分样式和位置*/
+
+header {
+    width: 748px;
+    margin: 0 auto;
+}
+
+img {
+    height: 76px;
+    width: 181px;
+}
+
+header nav {
+    float: right;
+}
+
+header nav a {
+    text-decoration: none;
+}
+
+
+/*表格整体样式*/
+
+table {
+    border-collapse: collapse;
+    width: 748px;
+    margin: 0 auto;
+}
+
+
+/*单元格合并部分样式*/
+
+caption {
+    padding-bottom: 20px;
+}
+
+[colspan] {
+    background-color: #dde5f5;
+    font-weight: bold;
+}
+
+
+/*第一列文字靠右对齐*/
+
+.text1 {
+    text-align: right;
+}
+
+
+/*输入文本区域大小和样式*/
+
+.myself {
+    height: 100px;
+    width: 420px;
+    margin-top: 10px;
+}
+
+
+/*表单第一行的背景颜色*/
+
+.text {
+    background-color: rgba(245, 250, 251, 0);
+}
+
+
+/*提交框样式*/
+
+.text3 {
+    text-align: center;
+    height: 100px;
+}
+
+
+/*底部样式*/
+
+footer {
+    text-align: center;
+    padding-bottom: 26px;
+}
